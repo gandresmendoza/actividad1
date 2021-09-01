@@ -1,0 +1,21 @@
+*{
+    background: rgb(236, 240, 240);
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(8, 8, 8, 0.897);
+
+}
+form{
+    padding: 10px;
+    font-size: 15px;
+    display: flex; 
+    border-radius: 12px;
+    
+    text-align: center;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
